@@ -1,0 +1,12 @@
+[submodule "pyp"]
+	path = pyp
+	url = https://github.com/pb866/pyp.git
+[submodule "filehandling"]
+	path = filehandling
+	url = https://github.com/pb866/filehandling.git
+[submodule "VectorMaths"]
+	path = VectorMaths
+	url = https://github.com/pb866/VectorMaths.git
+[submodule "ChemPhysConst"]
+	path = ChemPhysConst
+	url = https://github.com/pb866/ChemPhysConst.git
